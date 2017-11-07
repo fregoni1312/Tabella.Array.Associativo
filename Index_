@@ -1,29 +1,5 @@
 <HTML>
-<HEAD>
-   <TITLE>Esempio 1</TITLE>
-</HEAD>
-<CENTER><H1>Questo &egrave; scritto in stile Heading 1</H1></CENTER>
-
-<FONT SIZE=+2>
-
-Scritta non indentata
-
-<UL>   
-
   Scritta indentata seguita da un break<BR>
   il break mi ha portato a riga nuova<P>
   il paragrafo stacca di piu' (e permette di cambiare stile)
-</UL>     
-
-<UL>      
-  <LI>elemento uno</LI>
-  <LI>elemento due</LI>
-</UL>
-
-<CENTER>scritta centrata</CENTER>
-
-</FONT>
-<HR WIDTH="100%">     
-
-</BODY>
 </HTML>
