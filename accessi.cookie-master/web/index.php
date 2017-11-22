@@ -3,7 +3,7 @@
         <title>Visualizzazione Array Associativo</title> 
    </head> 
     <body> 
-            < table border = "1" >
+            <table border = "1" >
                         
                         <? php
                                     $pers = array ("a "=>" pippo " ,"b" =>" pluto " ,
