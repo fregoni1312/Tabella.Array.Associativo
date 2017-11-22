@@ -4,7 +4,7 @@
    </head> 
     <body> 
             < table border = "1" >
-                        <tr ><th > Chiave </ th >< th > Personaggio </ th > </ tr >
+                        
                         <? php
                                     $pers = array ("a "=>" pippo " ,"b" =>" pluto " ,
                                     "c" =>" paperino " ," d"=>" topolino " );
